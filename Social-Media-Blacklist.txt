@@ -20,3 +20,5 @@ ask.fm
 meinvz.net
 badoo.com
 devianart.com
+discord.com
+discord.gg
